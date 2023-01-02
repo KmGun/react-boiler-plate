@@ -1,5 +1,7 @@
 ## Directory structure
 
+<img width="178" alt="directoryStructure" src="https://user-images.githubusercontent.com/101977256/210210826-1064c118-1f2a-4e54-9663-eccdac4d4e2b.png">
+
 - src - 개발한 모든 소스가 존재한다.
   - assets : 정적 리소스, img, 웹폰트등
   - components : 컴포넌트들이 위치한다.
