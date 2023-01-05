@@ -29,6 +29,7 @@
     ```tsx
     function getGoogleId() {}
     ```
+  - 되도록 이름을 동사로 지어야함.
 - PascalCase : 컴포넌트 파일명, 컴포넌트, styled-component, interface, type
 
   ```tsx
